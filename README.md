@@ -1,4 +1,12 @@
 ### Hi there 👋
+# Hi there!
+
+<a href="https://github.com/Shimmer66">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=Shimmer66&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/Shimmer66">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=Shimmer66&layout=compact" />
+</a>
 
 <!--
 **Shimmer66/Shimmer66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
